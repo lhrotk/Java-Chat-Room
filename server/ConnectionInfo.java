@@ -1,4 +1,4 @@
-package network_server;
+package server;
 
 
 import java.util.ArrayList;
@@ -58,6 +58,6 @@ public class ConnectionInfo {
 	}
 	
 	public synchronized void change_listener(String name,int number){
-		users.get(name).setListening_port(number);;
+		users.get(name).setListening_port(number);
 	}
 }
