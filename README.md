@@ -2,7 +2,7 @@
 
 A simple java chat room project with UI
 
-## functionality
+## Functionality
 
 This program supports only plain text chatting. All users online are in one chatting group.
 
